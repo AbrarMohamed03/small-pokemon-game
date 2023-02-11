@@ -25,7 +25,7 @@ Welcome to Small Pokemon Game, a simple and fun HTML, CSS, and JavaScript based 
 
 
 ```bash
-    gh repo clone DexTer-9/small-pokemon-game
+    git clone https://github.com/DexTer-9/small-pokemon-game.git
 ```
 
 2. Open the `index.html` file in your browser
